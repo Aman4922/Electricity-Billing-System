@@ -1,10 +1,6 @@
 ⚡ Electricity Billing System
 A comprehensive Java-based electricity billing system that automates customer management, bill generation, and payment processing for utility companies.
 
-https://img.shields.io/badge/Java-17%252B-orange
-https://img.shields.io/badge/MySQL-8.0-blue
-https://img.shields.io/badge/GUI-Swing%2520UI-lightgrey
-https://img.shields.io/badge/License-MIT-green
 
 🌟 Features
 🔧 Core Functionality
@@ -68,8 +64,8 @@ Edit src/main/resources/config.properties:
 
 properties
 db.url=jdbc:mysql://localhost:3306/electricity_billing
-db.username=ebs_user
-db.password=password123
+db.username=root
+db.password=root
 Build and Run
 
 bash
@@ -205,7 +201,4 @@ JasperReports for PDF generation capabilities
 Open-source contributors who inspired this project
 
 ⭐ Star this repo if you found it helpful!
-
-https://img.shields.io/github/stars/Aman4922/Electricity-Billing-System?style=social
-
 Built with ❤️ by Aman Varshney
